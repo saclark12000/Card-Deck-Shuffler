@@ -1,5 +1,6 @@
 # Deck-Shuffler
 Python based project to compare shuffles between standard deck of cards.
+
 Self-guided project that does the following:
 
 Creates a fresh deck of cards;
